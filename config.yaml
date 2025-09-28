@@ -1,0 +1,45 @@
+# Mapping of folder names to the file extensions they should contain.
+# All extensions must be lowercase and start with a dot.
+categories:
+  Images:
+    - ".jpg"
+    - ".jpeg"
+    - ".png"
+    - ".gif"
+    - ".webp"
+    - ".bmp"
+    - ".svg"
+  Documents:
+    - ".pdf"
+    - ".docx"
+    - ".doc"
+    - ".txt"
+    - ".pptx"
+    - ".xlsx"
+    - ".odt"
+  Archives:
+    - ".zip"
+    - ".rar"
+    - ".7z"
+    - ".tar"
+    - ".gz"
+  Audio:
+    - ".mp3"
+    - ".wav"
+    - ".ogg"
+  Video:
+    - ".mp4"
+    - ".mov"
+    - ".avi"
+    - ".mkv"
+  Software:
+    - ".exe"
+    - ".msi"
+  Programming:
+    - ".ipynb"
+    - ".py"
+    - ".js"
+    - ".html"
+    - ".css"
+    - ".json"
+    - ".csv"

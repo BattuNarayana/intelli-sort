@@ -1,0 +1,48 @@
+2025-09-28 11:42:16,884 - INFO - Starting IntelliSort Application...
+2025-09-28 11:42:16,887 - INFO - Configuration loaded successfully.
+2025-09-28 11:42:16,888 - INFO - Target directory: C:/Users/battu/Downloads
+2025-09-28 11:42:16,889 - INFO - Scanning directory: C:/Users/battu/Downloads...
+2025-09-28 11:42:16,889 - WARNING - Skipped: 'desktop.ini' (Uncategorized)
+2025-09-28 11:42:16,890 - WARNING - Skipped: 'invite.ics' (Uncategorized)
+2025-09-28 11:42:16,890 - WARNING - Skipped: 'Oracle_VirtualBox_Extension_Pack-7.1.4.vbox-extpack' (Uncategorized)
+2025-09-28 11:42:16,891 - WARNING - Skipped: 'weather1.htm' (Uncategorized)
+2025-09-28 11:42:16,895 - WARNING - Skipped: 'weather2.htm' (Uncategorized)
+2025-09-28 11:42:16,896 - WARNING - Skipped: 'weather3.htm' (Uncategorized)
+2025-09-28 11:42:16,896 - WARNING - Skipped: 'web server.pem' (Uncategorized)
+2025-09-28 11:42:16,897 - INFO - Organization complete!
+2025-09-28 11:52:26,411 - INFO - Starting IntelliSort Application on directory: C:/Users/battu/Downloads
+2025-09-28 11:52:26,415 - INFO - Configuration loaded successfully.
+2025-09-28 11:52:26,416 - INFO - Scanning directory: C:/Users/battu/Downloads...
+2025-09-28 11:52:26,416 - WARNING - Skipped: 'desktop.ini' (Uncategorized)
+2025-09-28 11:52:26,417 - WARNING - Skipped: 'invite.ics' (Uncategorized)
+2025-09-28 11:52:26,417 - WARNING - Skipped: 'Oracle_VirtualBox_Extension_Pack-7.1.4.vbox-extpack' (Uncategorized)
+2025-09-28 11:52:26,418 - WARNING - Skipped: 'weather1.htm' (Uncategorized)
+2025-09-28 11:52:26,418 - WARNING - Skipped: 'weather2.htm' (Uncategorized)
+2025-09-28 11:52:26,418 - WARNING - Skipped: 'weather3.htm' (Uncategorized)
+2025-09-28 11:52:26,418 - WARNING - Skipped: 'web server.pem' (Uncategorized)
+2025-09-28 11:52:26,418 - INFO - Organization complete!
+2025-09-28 11:53:09,944 - INFO - Starting IntelliSort Application on directory: C:/Users/battu/OneDrive/Desktop
+2025-09-28 11:53:09,947 - INFO - Configuration loaded successfully.
+2025-09-28 11:53:09,947 - INFO - Scanning directory: C:/Users/battu/OneDrive/Desktop...
+2025-09-28 11:53:09,948 - WARNING - Skipped: 'Battu - Chrome.lnk' (Uncategorized)
+2025-09-28 11:53:09,948 - WARNING - Skipped: 'chatgpt.url' (Uncategorized)
+2025-09-28 11:53:09,948 - WARNING - Skipped: 'Comet.lnk' (Uncategorized)
+2025-09-28 11:53:09,949 - WARNING - Skipped: 'Comet.url' (Uncategorized)
+2025-09-28 11:53:09,949 - WARNING - Skipped: 'desktop.ini' (Uncategorized)
+2025-09-28 11:53:09,949 - WARNING - Skipped: 'DSA.lnk' (Uncategorized)
+2025-09-28 11:53:09,950 - WARNING - Skipped: 'Gemini.url' (Uncategorized)
+2025-09-28 11:53:09,950 - WARNING - Skipped: 'Microsoft Edge.lnk' (Uncategorized)
+2025-09-28 11:53:09,951 - INFO - Created new folder: C:/Users/battu/OneDrive/Desktop\Documents
+2025-09-28 11:53:09,955 - INFO - Moved: 'New Microsoft Excel Worksheet.xlsx' -> Documents/
+2025-09-28 11:53:09,956 - WARNING - Skipped: 'notebook lm.url' (Uncategorized)
+2025-09-28 11:53:09,956 - WARNING - Skipped: 'perplexity.url' (Uncategorized)
+2025-09-28 11:53:09,956 - WARNING - Skipped: 'SlideToShutDown.lnk' (Uncategorized)
+2025-09-28 11:53:09,957 - WARNING - Skipped: 'Unstop SmartHire.lnk' (Uncategorized)
+2025-09-28 11:53:09,957 - WARNING - Skipped: 'utube.url' (Uncategorized)
+2025-09-28 11:53:09,958 - WARNING - Skipped: 'Visual Studio Code.lnk' (Uncategorized)
+2025-09-28 11:53:09,958 - INFO - Organization complete!
+2025-09-28 12:03:59,364 - INFO - Starting IntelliSort service on directory: C:/Users/battu/Downloads
+2025-09-28 12:03:59,368 - INFO - Observer started. Watching for new files...
+2025-09-28 12:04:30,596 - INFO - Moved: 'New Text Document.txt' -> Documents/
+2025-09-28 12:05:32,488 - INFO - Shutdown signal received. Stopping observer.
+2025-09-28 12:05:32,489 - INFO - IntelliSort service has been shut down.
