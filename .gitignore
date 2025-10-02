@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller
+# -----------
+dist/
+build/
+*.spec
+
+# Database and Log files
+# ----------------------
+*.db
+*.log
+history.db
+organizer.log
+
+# IDE / Editor specific
+# ---------------------
+.vscode/
+.idea/
+
+# OS-specific
+# -----------
+.DS_Store
+Thumbs.db
