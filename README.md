@@ -9,7 +9,7 @@ A smart, real-time, and configurable utility that automatically organizes files 
 
 ---
 
-# 🔧 Configuration
+🔧 Configuration
 
 IntelliSort is designed to be easily customized by the user. All sorting rules are managed in the `config.yaml` file, which is included with the application.
 
