@@ -40,23 +40,6 @@ This project was built from the ground up to be a professional-grade software ut
 
 ---
 
-### 🔧 Configuration
-
-IntelliSort is designed to be easily customized by the user. All sorting rules are managed in the `config.yaml` file, which is included with the application.
-
-The structure is simple:
-
-```yaml
-categories:
-  Images:
-    - ".jpg"
-    - ".jpeg"
-    - ".png"
-  Documents:
-    - ".pdf"
-    - ".docx"
-
----
 
 ### Installation & Usage (for Developers)
 
