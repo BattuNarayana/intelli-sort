@@ -7,6 +7,25 @@ A smart, real-time, and configurable utility that automatically organizes files 
 
 ---
 
+---
+
+### 🔧 Configuration
+
+IntelliSort is designed to be easily customized by the user. All sorting rules are managed in the `config.yaml` file, which is included with the application.
+
+The structure is simple:
+
+```yaml
+categories:
+  Images:
+    - ".jpg"
+    - ".jpeg"
+    - ".png"
+  Documents:
+    - ".pdf"
+    - ".docx"
+
+
 ### Key Features
 
 This project was built from the ground up to be a professional-grade software utility, demonstrating a full range of development skills:
