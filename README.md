@@ -40,7 +40,7 @@ To run this project from the source code:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/intelli-sort.git](https://github.com/YourUsername/intelli-sort.git)
+    git clone [https://github.com/BattuNarayana/intelli-sort.git](https://github.com/BattuNarayana/intelli-sort.git)
     cd intelli-sort
     ```
 
